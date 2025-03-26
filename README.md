@@ -4,5 +4,17 @@ Super trunfo e um jogo muito que consiste em tomar todas as cartasem jogo dos ad
 de cada carta (velocidade,inteligencia,defesa,habilidade e forca).
 Sao cartas divididas em grupos.
 A versao digital do jogo precisa de uma logica de comparacao de cartas .
+Exemplo..
 
+printf("Area1 > Area2: %d\n", area1 > area2); 
+
+printf("Area1 < Area2: %d\n", area1 < area2); 
+
+printf("Area1 >= Area2: %d\n", area1 >= area2); 
+
+printf("Area1 <= Area2: %d\n", area1 <= area2); 
+
+printf("Area1 == Area2: %d\n", area1 == area2); 
+
+printf("Area1 != Area2: %d\n", area1 != area2).
 
